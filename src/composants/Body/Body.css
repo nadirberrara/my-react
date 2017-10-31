@@ -1,0 +1,15 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.titre {
+  margin: auto;
+  margin-top: 30px;
+}
+
+.img {
+  margin: auto;
+  padding: 50px;
+}
